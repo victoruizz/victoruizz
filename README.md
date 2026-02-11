@@ -1,8 +1,6 @@
 <h2 align="left">Victor Ruiz | Software Developer</h2>
 
-<div align="right">
-  <img height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjl4cGUzaG01a2E2MDJ2eG1jeXVjamE5d2s5OGRyZG5obGYxY2pjMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MDJ9IbxxvDUQM/giphy.gif"/>
-</div>
+<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjl4cGUzaG01a2E2MDJ2eG1jeXVjamE5d2s5OGRyZG5obGYxY2pjMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MDJ9IbxxvDUQM/giphy.gif"/>
 
 I'm a **Systems Information student** and **Support Analyst** based in Brazil.
 
@@ -12,6 +10,8 @@ I focus on building backend solutions with **Java**, **C#**, and **Applied AI**.
 * **JourneyX:** Co-creator of the onboarding platform that won **2nd Place at FIAP NEXT**.
 * **AI Focus:** Responsible for the chatbot implementation in the JourneyX project.
 * **Goal:** Transitioning to full-time Software Engineering.
+
+<br clear="right">
 
 ###
 
