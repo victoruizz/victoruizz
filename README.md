@@ -1,6 +1,5 @@
-<h2 align="left">Victor Ruiz | Software Developer</h2>
-
-<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjl4cGUzaG01a2E2MDJ2eG1jeXVjamE5d2s5OGRyZG5obGYxY2pjMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MDJ9IbxxvDUQM/giphy.gif"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=140&color=gradient&reversal=false" alt="header">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&random=true&width=435&lines=Victor+Ruiz+%7C+Software+Developer" alt="Typing SVG" /></a>
 
 I'm a **Systems Information student** and **Support Analyst** based in Brazil.
 
