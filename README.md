@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:FFFF00,100:FF8C00&reversal=false" alt="header">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:4F46E5,100:7C3AED&reversal=false" alt="header">
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&random=true&width=435&lines=Victor+Ruiz+%7C+Software+Developer" alt="Typing SVG" /></a>
 
@@ -26,5 +26,5 @@ I focus on building backend solutions with **Java**, **C#**, and **Applied AI**.
   <a href="mailto:ruizvictor077@outlook.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" /></a><img width="5" /><a href="https://www.linkedin.com/in/victor-ruiz-6b6567286/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" /></a>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:FFFF00,100:FF8C00&section=footer&reversal=true" alt="footer">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:4F46E5,100:7C3AED&section=footer&reversal=true" alt="footer">
 </div>
