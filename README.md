@@ -37,7 +37,7 @@
 
 ### Challenge Achievement
 
-<img src="https://fiap-achievements.vercel.app/api/badge?theme=black&badge=challenge&year=2025&company=vivo&ranking=1" width="140" />
+<img src="https://fiap-achievements.vercel.app/api/badge?theme=black&badge=challenge&year=2025&company=vivo&ranking=2" width="140" />
 
 <br><br>
 
