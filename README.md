@@ -25,7 +25,7 @@
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,kotlin,flutter,oracle,mysql,git,github,docker,idea,vscode,bootstrap&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,github,docker,&theme=dark" />
 
 </div>
 
